@@ -1,0 +1,43 @@
+.formstyle{
+    width: 250px;
+    height: 450px;
+    border: width 4px solid;
+    padding: 30px;
+    background-color: bisque;
+    margin: 30px;
+    display: block;
+    flex-direction: column;
+}
+
+.mydiv{
+     width: 350px;
+    height: 450px;
+    border: width 4px solid;
+    padding: 30px;
+    background-color: blueviolet;
+    margin: 30px;
+    display: block;
+    flex-direction: column;
+}
+
+input{
+    width: 30px;
+    background-color: black;
+    color: white;
+    margin: 5px;
+    text-align: center;
+    font-size: 15px;
+}
+
+#calc{
+    width: 200px;
+    height: 20px;
+    border: width 5px solid white;
+
+}
+
+#clear{
+    width: 200px;
+    border: width 3px solid;
+    background-color: darkcyan;
+}

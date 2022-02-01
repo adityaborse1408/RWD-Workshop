@@ -1,0 +1,39 @@
+.div1{
+    width: auto;
+    height:auto;
+    text-align: center;
+    margin-top: 5px;
+   
+    background-color: blueviolet;
+}
+.mydiv{
+    display: block;
+    flex-direction: column;
+    background-color: cadetblue;
+    width: 150px;
+    float: left;
+    height: 200px;
+    
+
+}
+.innerdiv{
+    float: left;
+    width: 50%;
+
+}
+ .foot{
+    width: auto;
+    background-color: chocolate;
+    float: inline-end;
+    
+    display: block;
+} 
+article{
+   text-align: center;
+    /* align-content: center; */
+    float: auto;
+    background-color: cornflowerblue;
+    width: auto;
+    height: 200px;
+    
+}
